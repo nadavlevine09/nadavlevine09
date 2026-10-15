@@ -10,4 +10,4 @@ Student at The Leffell School (Class of 2027) in New York. I build products end 
 
 ## Skills
 
-Python · React · Supabase/Postgres · Vercel · Arduino · Git/GitHub · Claude Code
+I read and review Python and build by directing AI coding agents (Claude Code). Also: React · Supabase/Postgres · Vercel · Arduino · Git/GitHub
