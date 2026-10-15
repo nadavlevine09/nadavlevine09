@@ -1,6 +1,6 @@
 # Nadav Levine
 
-Student at The Leffell School (Class of 2027) in New York. I build products end to end, often directing AI coding agents (Claude Code) and reviewing every change myself.
+Student at The Leffell School (Class of 2027) in New York. I build products end to end by directing AI coding agents (Claude Code).
 
 ## Projects
 
@@ -10,4 +10,4 @@ Student at The Leffell School (Class of 2027) in New York. I build products end 
 
 ## Skills
 
-I read and review Python and build by directing AI coding agents (Claude Code). Also: React · Supabase/Postgres · Vercel · Arduino · Git/GitHub
+Build by directing AI coding agents (Claude Code) · React · Supabase/Postgres · Vercel · Arduino · Git/GitHub
